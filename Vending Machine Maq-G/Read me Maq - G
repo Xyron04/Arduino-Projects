@@ -1,0 +1,12 @@
+The project consists of a wireless vending machine controlled by a smartphone and the purpose was to reduce human contact with the machine due to covid 19.  
+The vending machine is called Maq-G and has an app developed in MIT app inventor linked to a database (Firebase).
+
+The project considers:
+-Arduino UNO
+-4 Motors 
+-2 Motor drivers L293D
+-Voltage regulator
+-Bluetooth Module HC-05
+-LCD Screen
+
+December 2020
